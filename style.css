@@ -180,3 +180,17 @@ footer{
     color: #2495c2;
     font-size: 20px;
 }
+footer{
+    padding: 5px;
+    margin-top: 20px;
+    color: #ffffff;
+    background-color: #0b4d8a;
+    text-align: center;
+    font-weight: bolder;
+    position:static;    
+    color: #60b2e9;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    border: 2px;
+    border-radius: 10px;
+}
